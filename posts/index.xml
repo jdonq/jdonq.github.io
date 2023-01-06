@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Lorem ipsum</title>
+    <link>http://jdonq.github.io/posts/</link>
+    <description>Recent content in Posts on Lorem ipsum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Jan 2023 17:50:17 +0200</lastBuildDate>
+    
+	<atom:link href="http://jdonq.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post #1</title>
+      <link>http://jdonq.github.io/posts/post-1/</link>
+      <pubDate>Tue, 03 Jan 2023 17:50:17 +0200</pubDate>
+      
+      <guid>http://jdonq.github.io/posts/post-1/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam libero sapien, tempus a velit et, facilisis sollicitudin lectus. Maecenas tempus arcu leo, a pulvinar dui laoreet eget. Etiam viverra mauris sed enim hendrerit euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi consequat nisl ultricies fermentum ornare. Etiam blandit massa lorem, non bibendum mi mattis in. Fusce egestas dapibus diam, non faucibus ante dapibus id. Duis pharetra mattis malesuada.</description>
+    </item>
+    
+  </channel>
+</rss>
